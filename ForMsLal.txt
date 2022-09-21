@@ -1,0 +1,18 @@
+• Must contain at least 3 different classes.
+-> has 6 classes (including main)
+
+• Use ArrayList and use an Arraylist of objects.
+->ArrayLists present in attributes of user class and day class
+
+• Must involve file IO.
+->Program reads and writes to files for each user
+
+• Needs some type of searching and sorting
+->Line 157 in Day.java - Binary search method to look for date
+->Line 140 in Day.java - Bubble sort method to sort dates
+->Line 75 in Log.java - Bubble sort method to sort by date/time
+->Line 92 in Log.java - Bubble sort method to sort by sugar level
+
+• Must not crash (generally) :)
+->User interface only crashes when invalid input is entered
+
